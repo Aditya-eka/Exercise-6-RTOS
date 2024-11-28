@@ -29,3 +29,4 @@
 2. Dengan Suspend Scheduler: Konflik dapat dihindari karena hanya satu tugas yang dapat mengakses sumber daya dalam satu waktu
 
 ## Hasil Percobaan
+https://github.com/user-attachments/assets/c421cb40-0249-4539-9892-b5598f8bc1dc
